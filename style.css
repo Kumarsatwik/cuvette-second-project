@@ -67,7 +67,7 @@ li>a{
 .search-icon{
     position: absolute;
     top: 53%;
-    right: 16%;
+    right: 17%;
     transform: translateY(-50%);
     pointer-events: none;
     color:black;
